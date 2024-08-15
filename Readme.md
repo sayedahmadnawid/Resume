@@ -1,7 +1,11 @@
-📌 Japan, Hyogo, Kobe ciy
 
 # Software Engineer
 Software Engineer | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
+
+📌 Japan, Hyogo, Kobe City
+
+JLPT N3の資格を持っています。日本語でスムーズにコミュニケーションできます。
+
 
 ## Summary
 I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, specializing in creating robust RESTful APIs. I work with MySQL and Tailwind CSS to build dynamic, scalable web applications. Additionally, I am proficient in designing and developing online shops using Shopify and WordPress. I am passionate about learning new technologies and embracing challenges to continuously improve my skills.
@@ -16,28 +20,17 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 
 ## Recent Projects
 - Reservation System  [予約システム](https://reservation.urbanpicnic.jp)
+  
+- Online Shop  [(OpenAir)](https://www.openair.beer/)
+
+- Online Shop  [(HerbShop)](https://www.openair.beer/)
+
+- RIMS (Renovation Information Managment System)
   <details>
    <summary> Details </summary>
   
       Details of the used Technology
   
     </details>
-    
-- Online Shop  [(OpenAir)](https://www.openair.beer/)
-  <details>
-   <summary> Details </summary>
-  
-       Details of the used Technology
-  
-    </details>
-
-- Online Shop  [(HerbShop)](https://www.openair.beer/)
-  <details>
-   <summary> Details </summary>
-  
-       Details of the used Technology
-  
-    </details>
-
 ## 🎓 Education
 
