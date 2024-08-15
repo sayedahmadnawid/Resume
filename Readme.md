@@ -1,5 +1,5 @@
 
-# Sayed Ahmad Nawid
+# Software Developer | System Analyst
 Software Engineer | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
 
 ## Summary
