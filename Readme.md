@@ -29,7 +29,8 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
   
      - Developed RIMS (Renovation Information Management System) for Murakami General Construction Company, fully computerizing the
         business rules of the renovation department.
-     - **Key features include**
+     - Supports multiple users with varying rights and roles, incorporating approval procedures at different stages of the project.
+     - Key features include
         - **Construction Project Registration:** Initiates each renovation project.
         - **Draft Orders Registration:** Handles the registration of draft orders, allowing multiple subcontractor quotations per order.
         - **Quotation Comparison:** Compares subcontractor quotations to select the best option.
@@ -40,6 +41,8 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
         - **Payment Management:** Manages payments to subcontractors based on work progress.
         - **Client Invoicing:** Generates invoices for completed construction projects.
         - **Reporting:** Produces various reports and PDF documents, all in Japanese.
+      
+    ![screenshot](screen1.png)  ![screenshot](screen2.png)
   
     </details>
 
