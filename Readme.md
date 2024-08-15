@@ -1,10 +1,8 @@
 
 # Software Engineer
-Software Engineer | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
+📌 Japan, Hyogo, Kobe City | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
 
-📌 Japan, Hyogo, Kobe City
-
-JLPT N3の資格を持っています。日本語でスムーズにコミュニケーションできます。
+N3のJLPT証明書を取得しました。日本語でコミュニケーションができますが、複雑なアイデアをうまく表現することはできません。幸いにも、ビジネス会議ではほぼすべてを聞き取ることができるようになりました。漢字はほぼN2レベルまで読めますが、まだ日本語を上達させる必要があります。
 
 
 ## Summary
