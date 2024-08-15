@@ -31,6 +31,7 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
   
     </details>
 
+
 -  Side Project [Practicing Vue Composition API](https://github.com/sayedahmadnawid/Docker-Laravel11-vue3-scaffolding)
    <details>
      <summary> Details </summary>
@@ -38,7 +39,6 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
       Details of the used Technology
   
    </details>
-https://www.kic.ac.jp/
    
 ## 🎓 Education
 
