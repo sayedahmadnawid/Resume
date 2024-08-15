@@ -7,7 +7,7 @@ description: Software Developer | System Engineer
 
 Location: Japan
 
-show_downloads: true # Fix spelling
+show_downloads: false # Fix spelling
 
 theme: jekyll-theme-minimal 
 
