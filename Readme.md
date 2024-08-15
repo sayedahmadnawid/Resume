@@ -21,7 +21,7 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
   
 - Online Shop  [(OpenAir)](https://www.openair.beer/)
 
-- Online Shop  [(HerbShop)](https://www.openair.beer/)
+- Online Shop  [(HerbShop)](https://shop.herbcity.jp/)
 
 - RIMS (Renovation Information Managment System)
   <details>
