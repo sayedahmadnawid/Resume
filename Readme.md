@@ -1,3 +1,4 @@
+📌 Japan, Hyogo, Kobe ciy
 
 # Software Engineer
 Software Engineer | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
