@@ -11,4 +11,5 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD
 
-- ## 🎓 Education
+## 🎓 Education
+
