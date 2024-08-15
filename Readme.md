@@ -27,7 +27,19 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
   <details>
    <summary> Details </summary>
   
-      Details of the used Technology
+     - Developed RIMS (Renovation Information Management System) for Murakami General Construction Company, fully computerizing the
+        business rules of the renovation department.
+     - **Key features include**
+        - **Construction Project Registration:** Initiates each renovation project.
+        - **Draft Orders Registration:** Handles the registration of draft orders, allowing multiple subcontractor quotations per order.
+        - **Quotation Comparison:** Compares subcontractor quotations to select the best option.
+        - **Estimation Cost Management:** Provides clients with cost estimates based on subcontractor quotations.
+        - **Client Contracting:** Manages contract agreements upon client approval of estimates.
+        - **Execution Budget Management:** Controls construction expenditure and monitors profit.
+        - **Order Management:** Oversees subcontractor assignments and order processing.
+        - **Payment Management:** Manages payments to subcontractors based on work progress.
+        - **Client Invoicing:** Generates invoices for completed construction projects.
+        - **Reporting:** Produces various reports and PDF documents, all in Japanese.
   
     </details>
 
@@ -45,3 +57,10 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 - **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
   
 - **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
+
+## 💼 Work experience
+**System Engineer @ Riverworks (_April 2022 - Present_)**
+- Develop a MIS for a construction company namely Murkami General Construction Company using Laravel with JQuery.
+- Collaborate with cross-functional teams to understand and translate project requirements into technical solutions.
+- Design and implement efficient, scalable, and secure code for web applications.
+- Participate in agile development methodologies
