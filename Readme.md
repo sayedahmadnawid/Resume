@@ -30,5 +30,18 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
       Details of the used Technology
   
     </details>
+
+-  Side Project [Practicing Vue Composition API](https://github.com/sayedahmadnawid/Docker-Laravel11-vue3-scaffolding)
+   <details>
+     <summary> Details </summary>
+  
+      Details of the used Technology
+  
+   </details>
+https://www.kic.ac.jp/
+   
 ## 🎓 Education
 
+- **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
+  
+- **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
