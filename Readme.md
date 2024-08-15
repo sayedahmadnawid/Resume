@@ -13,11 +13,19 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 
 ## Recent Projects
 - Reservation System  [予約システム](https://reservation.urbanpicnic.jp)
--  <details>
-   <summary>My top THINGS-TO-RANK</summary>
+  <details>
+   <summary> Details </summary>
   
-   YOUR TABLE
+      YOUR TABLE
   
-   </details>
+    </details>
+    
+- Online Shop  [(OpenAir)](https://www.openair.beer/)
+  <details>
+   <summary> Details </summary>
+  
+      YOUR TABLE
+  
+    </details>
 ## 🎓 Education
 
