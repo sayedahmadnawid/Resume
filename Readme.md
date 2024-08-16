@@ -44,3 +44,12 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 - Collaborate with cross-functional teams to understand and translate project requirements into technical solutions.
 - Design and implement efficient, scalable, and secure code for web applications.
 - Participate in agile development methodologies
+
+## 📞 Contact
+
+**Name**    Sayed Ahmad Nawid 
+
+**E-mail**    <a href="mailto:sayed.sayedzada@gmail.com">sayed.sayedzada@gmail.com</a>  
+
+**LinkedIn**   <a href="https://www.linkedin.com/in/sayed-ahmad-nawid-sayedzada" target="_blank">Visit Page</a> 
+
