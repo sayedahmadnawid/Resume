@@ -24,19 +24,16 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 - Online Shop  [(HerbShop)](https://shop.herbcity.jp/)
 
 - RIMS (Renovation Information Managment System)
+    <details>
+       <summary> Details </summary>
+       Developed RIMS for Murakami General Construction, fully automating the renovation department's operations from bidding to invoicing, entirely in Japanese. The system supports multi-user roles with stage-specific approval processes, covering project registration, order management, cost estimation, budgeting, subcontractor payments, client invoicing, and detailed reporting.
   
-     - Developed RIMS (Renovation Information Management System) for Murakami General Construction Company, fully computerizing the
-        business rules of the renovation department.
-     - Supports multiple users with varying rights and roles, incorporating approval procedures at different stages of the project.
-     - Key features include
-        - **Construction Project Registration:** Initiates each renovation project.
-
-
+    </details>
 -  Side Project [Practicing Vue Composition API](https://github.com/sayedahmadnawid/Docker-Laravel11-vue3-scaffolding)
-   <details>
+     <details>
      <summary> Details </summary>
   
-      Details of the used Technology
+      
   
    </details>
    
