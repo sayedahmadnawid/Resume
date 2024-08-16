@@ -35,9 +35,9 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 
   
 ## 🎓 Education
-  - **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
+**MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
   
-  - **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
+**BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
 
 ## 💼 Work experience
 **System Engineer @ Riverworks (_April 2022 - Present_)**
