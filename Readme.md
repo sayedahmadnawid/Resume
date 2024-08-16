@@ -25,14 +25,11 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 
 - RIMS (Renovation Information Managment System)
     <details>
-      <br />
       Developed RIMS for Murakami General Construction, fully automating the renovation department's operations from bidding to invoicing,        entirely in Japanese. The system supports multi-user roles with stage-specific approval processes, covering project registration, order       management, cost estimation, budgeting, subcontractor payments, client invoicing, and detailed reporting.
-      <br />
     </details>
 -  Side Project [Practicing Vue Composition API](https://github.com/sayedahmadnawid/Docker-Laravel11-vue3-scaffolding)
      <details>
         <summary> Details </summary>
-        <br />
          This repository provides a scaffold designed with best practices in mind, utilizing Laravel 11, Vue 3, Tailwind, and several other modern          technologies. The goal is to create a foundation that leverages composables and reusable components to enhance development efficiency and          maintainability. I'm working on this in my free time to further my technical knowledge and apply it to future projects.
      </details>
    
