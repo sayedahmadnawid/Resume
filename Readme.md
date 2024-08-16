@@ -32,11 +32,12 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
         <summary> Details </summary>
          This repository provides a scaffold designed with best practices in mind, utilizing Laravel 11, Vue 3, Tailwind, and several other modern          technologies. The goal is to create a foundation that leverages composables and reusable components to enhance development efficiency and          maintainability. I'm working on this in my free time to further my technical knowledge and apply it to future projects.
      </details>
-   
-## 🎓 Education
-- **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
+
   
-- **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
+## 🎓 Education
+  - **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
+  
+  - **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
 
 ## 💼 Work experience
 **System Engineer @ Riverworks (_April 2022 - Present_)**
