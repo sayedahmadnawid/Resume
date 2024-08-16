@@ -2,9 +2,6 @@
 # Software Engineer
 📌 Japan, Hyogo, Kobe City | Portfolio: [sayedahmadnawid.github.io](https://sayedahmadnawid.github.io/Resume/)
 
-N3のJLPT資格を取得しました。日本語でコミュニケーションができますが、複雑なアイデアをうまく表現することはできません。幸いにも、ビジネス会議ではほぼすべてを聞き取ることができるようになりました。漢字はほぼN2レベルまで読めますが、まだ日本語を上達させる必要があります。
-
-
 ## Summary
 I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, specializing in creating robust RESTful APIs. I work with MySQL and Tailwind CSS to build dynamic, scalable web applications. Additionally, I am proficient in designing and developing online shops using Shopify and WordPress. I am passionate about learning new technologies and embracing challenges to continuously improve my skills.
 
@@ -35,9 +32,11 @@ I am a Full-Stack Software Developer with expertise in Laravel and Vue.js, speci
 
   
 ## 🎓 Education
+
 **MSIS**, Master of Science in Information Systems | <a href="https://www.kic.ac.jp" target="_blank">Kobe Institute of Computing</a> (_SEPT 2014 - SEPT 2016_)
 
 **BCS**, Bachelor of Computer Science | Kabul University (_MAR 2007 - JAN 2011_)
+
 
 ## 💼 Work experience
 **System Engineer @ Riverworks (_April 2022 - Present_)**
